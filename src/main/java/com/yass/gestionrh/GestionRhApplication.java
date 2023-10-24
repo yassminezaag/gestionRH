@@ -44,10 +44,10 @@ public class GestionRhApplication implements CommandLineRunner {
         Employee emp1 = new Employee();
         emp1.setFirstName("Yassmine");
         emp1.setLastName("Zaag");
-        emp1.setEmail("yassminezaag@gmail.com");
+        emp1.setEmail("yassminezaag99@gmail.com");
         emp1.setAddress("Sousse");
         emp1.setDateOfBirth(LocalDate.of(1999,01,25));
-        emp1.setPhoneNumber("29276153");
+        emp1.setPhoneNumber("11111111");
         emp1.setDateOfHire(LocalDate.of(2023,05,26));
         emp1.setPositionHeld("Ingénieur");
 
